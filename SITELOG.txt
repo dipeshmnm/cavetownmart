@@ -6,5 +6,6 @@ text management
 reperfection of design
 social media x
 google map and business x
-favicon, sitemap, and search engine optimization x
+favicon, sitemap, and search engine optimization 
 email address with ZOHO x
+final change x
