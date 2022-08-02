@@ -9,7 +9,13 @@
 
 <url>
   <loc>https://www.cavetownmart.com.np/</loc>
-  <lastmod>2022-07-31T09:52:19+00:00</lastmod>
+  <lastmod>2022-08-02T18:59:06+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.cavetownmart.com.np/csr.html</loc>
+  <lastmod>2022-08-02T18:59:06+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
